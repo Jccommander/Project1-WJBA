@@ -1,30 +1,23 @@
-﻿Stadium,Club(s),Location,First MLS year in stadium,Capacity,Coordinates
-Audi Field,D.C. United,"Washington, D.C.",2018,"20,000",38°52′6″N 77°0′44″W﻿ / ﻿38.86833°N 77.01222°WCoordinates: 38°52′6″N 77°0′44″W﻿ / ﻿38.86833°N 77.01222°W
-Avaya Stadium,San Jose Earthquakes,"San Jose, California",2015,"18,000",37°21′5″N 121°55′30″W﻿ / ﻿37.35139°N 121.92500°W
-Banc of California Stadium,Los Angeles FC,Los Angeles,2018,"22,000",34°00′47″N 118°17′6″W﻿ / ﻿34.01306°N 118.28500°W
-BBVA Compass Stadium,Houston Dynamo,Houston,2012,"22,039",29°45.132′N 95°21.144′W﻿ / ﻿29.752200°N 95.352400°W
-BC Place,Vancouver Whitecaps FC,Vancouver,2011,"54,500
-(22,120)",49°16′36″N 123°6′43″W﻿ / ﻿49.27667°N 123.11194°W
-BMO Field,Toronto FC,Toronto,2007,"30,991",43°37′58″N 79°25′07″W﻿ / ﻿43.63278°N 79.41861°W
-CenturyLink Field,Seattle Sounders FC,Seattle,2009,"69,000
-(39,419)",47°35′43″N 122°19′54″W﻿ / ﻿47.5952°N 122.3316°W
-Children's Mercy Park,Sporting Kansas City,"Kansas City, Kansas",2011,"18,467",39°07′18″N 94°49′25″W﻿ / ﻿39.1218°N 94.8237°W
-Dick's Sporting Goods Park,Colorado Rapids,"Commerce City, Colorado",2007,"18,061",39°48′20″N 104°53′31″W﻿ / ﻿39.80556°N 104.89194°W
-Gillette Stadium,New England Revolution,"Foxborough, Massachusetts",2002,"65,878
-(20,000)",42°05′27.40″N 71°15′51.64″W﻿ / ﻿42.0909444°N 71.2643444°W
-Mapfre Stadium,Columbus Crew SC,"Columbus, Ohio",1999,"19,968",40°0′34″N 82°59′28″W﻿ / ﻿40.00944°N 82.99111°W
-Mercedes-Benz Stadium,Atlanta United FC,Atlanta,2017,"72,035
-(42,500)",33°45′19.30″N 84°24′4.29″W﻿ / ﻿33.7553611°N 84.4011917°W
-Orlando City Stadium,Orlando City SC,"Orlando, Florida",2017,"25,500",28°37′27.83″N 81°23′20.53″W﻿ / ﻿28.6243972°N 81.3890361°W
-Providence Park,Portland Timbers,"Portland, Oregon",2011,"21,144",45°31′17″N 122°41′30″W﻿ / ﻿45.52139°N 122.69167°W
-Red Bull Arena,New York Red Bulls,"Harrison, New Jersey",2010,"25,000",40°44′12″N 74°9′1″W﻿ / ﻿40.73667°N 74.15028°W
-Rio Tinto Stadium,Real Salt Lake,"Sandy, Utah",2008,"20,213",40°34′59″N 111°53′35″W﻿ / ﻿40.582923°N 111.893156°W
-Saputo Stadium,Montreal Impact,Montreal,2012,"20,801",45°33′47″N 73°33′9″W﻿ / ﻿45.56306°N 73.55250°W
-StubHub Center,LA Galaxy,"Carson, California",2003,"27,000",33°51′52″N 118°15′40″W﻿ / ﻿33.86444°N 118.26111°W
-Talen Energy Stadium,Philadelphia Union,"Chester, Pennsylvania",2010,"18,500",39°49′56″N 75°22′44″W﻿ / ﻿39.83222°N 75.37889°W
-TCF Bank Stadium,Minnesota United FC,Minneapolis,2017,"50,805
-(21,895)",44°58′34″N 93°13′30″W﻿ / ﻿44.976°N 93.225°W
-Toyota Park,Chicago Fire,"Bridgeview, Illinois",2006,"20,000",41°45′53″N 87°48′22″W﻿ / ﻿41.76472°N 87.80611°W
-Toyota Stadium,FC Dallas,"Frisco, Texas",2005,"20,500",33°9′16″N 96°50′7″W﻿ / ﻿33.15444°N 96.83528°W
-Yankee Stadium,New York City FC,"Bronx, New York",2015,"47,309
-(30,321)",40°49′45″N 73°55′35″W﻿ / ﻿40.82917°N 73.92639°W
+﻿Rank,Team,Matches,Total,Average,Capacity,Stadium,City,State,Zip Code,Density,City Population,Land Area
+1,Atlanta United FC,17,"819,404",48200,"72,000 (42,500)",Mercedes-Benz Stadium,Atlanta,GA,30313,"3,549","472,522",133
+2,Seattle Sounders,17,"742,314",43666,"69,000 (39,419)",CenturyLink Field,Seattle,WA,98134,"8,391","704,352",84
+3,Toronto FC,17,"470,005",27647,"30,991",BMO Field,Toronto,, M6K3C3 ,"4,334","2,731,571",630
+4,Orlando City,17,"425,477",25028,"25,500",Orlando City Stadium,Orlando,FL,32805,"2,707","277,173",102
+5,New York City FC,17,"379,455",22321,"47,309 (30,321)",Yankee Stadium,New York City,NY,10451,"28,211","8,537,673",303
+6,Los Angeles Galaxy,17,"378,180",22246,"27,000",StubHub Center,Carson,CA,90746 ,"4,957","92,797",19
+7,Vancouver Whitecaps,17,"364,073",21416,"54,500 (22,120)",BC Place,Vancouver,,V6B 4Y8,"5,492","631,486",115
+8,New York Red Bulls,17,"359,977",21175,"25,000",Red Bull Arena,Harrison,NJ,07029 ,"11,319","13,620",1
+9,Portland Timbers,17,"359,448",21144,"21,144",Providence Park,Portland,OR,97205 ,"4,795","639,863",133
+10,Minnesota United FC,17,"349,138",20538,"21,895",TCF Bank Stadium,Minneapolis,MN,55455,"7,664","413,651",54
+11,Impact de Montréal,17,"340,783",20046,"20,801",Saputo Stadium,Montreal,,,"3,890","1,704,694",432
+12,San Jose Earthquakes,17,"337,873",19875,"18,000",Avaya Stadium,San Jose,CA,95110 ,"5,808","1,025,350",177
+13,Sporting Kansas City,17,"332,121",19537,"18,467",Children's Mercy Park,Kansas City,KS,11111,"1,216","151,709",125
+14,New England Revolution,17,"329,233",19367,"65,878 (20,000)",Gillette Stadium,Foxborough,MA,2035,800,"16,693",20
+16,D.C. United,17,"308,664",18157,????,RFK Stadium,Washington,D.C.,1111,"11,158","681,170",61
+16,Real Salt Lake,17,"319,284",18781,"20,213",Rio Tinto Stadium,Sandy,UT,84070 ,"4,190","95,836",23
+17,Houston Dynamo,17,"297,507",17500,"22,039",BBVA Compass Stadium,Houston,TX,77003 ,"3,842","2,303,482",600
+17,Chicago Fire,17,"295,511",17383,"20,000",Toyota Park,Bridgeview,IL,60455,"3,916","20,446",7
+17,Philadelphia Union,17,"285,797",16812,"18,500",Talen Energy Stadium,Chester,PA,19013 ,"11,692","1,567,872",134
+17,Columbus Crew,17,"262,469",15439,"19,968",Mapfre Stadium,Colubus,OH,43211 ,"3,960","860,090",217
+17,Colorado Rapids,17,"260,476",15322,"18,061",Dick's Sporting Goods Park,Commerce City,CO,80022,"1,558","45,913",35
+17,FC Dallas,17,"257,077",15122,20500??,Toyota Stadium,Frisco,TX,75034,"2,648","163,656",62
