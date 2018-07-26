@@ -1,96 +1,114 @@
-,City & State,Year,Edu Total Pop,Less Than High School Grad,High School Grad,Some College or Associates,Bachelor's Degree or Higher
-0,"Atlanta city, Georgia",2012,240515,25188,47446,50395,117486
-1,"Seattle city, Washington",2012,379354,21675,39284,93888,224507
-2,"Orlando city, Florida",2012,136311,14059,34168,42055,46029
-3,"New York city, New York",2012,4565255,810354,1067343,1015411,1672147
-4,"Carson city, California",2012,48161,8142,10830,17185,12004
-5,"Newark city, New Jersey",2012,149541,40128,53380,36402,19631
-6,"Portland city, Oregon",2012,355659,31090,58526,105895,160148
-7,"Minneapolis city, Minnesota",2012,219340,24032,34830,55916,104562
-8,"San Jose city, California",2012,530213,82858,94340,146017,206998
-9,"Kansas City city, Kansas",2012,74709,15471,25025,22402,11811
-10,"Foxborough CDP, Massachusetts",2012,2980,232,585,1184,979
-11,"Sandy city, Utah",2012,46582,1793,9482,17516,17791
-12,"Washington city, District of Columbia",2012,348387,36627,63355,60221,188184
-13,"Houston city, Texas",2012,1144703,283579,254129,274906,332089
-14,"Bridgeview village, Illinois",2012,8432,1588,3025,2506,1313
-15,"Chester city, Pennsylvania",2012,16183,2927,7514,4095,1647
-16,"Columbus city, Ohio",2012,431747,44344,106822,130970,149611
-17,"Commerce City city, Colorado",2012,24209,5266,6305,7315,5323
-18,"Frisco city, Texas",2012,65716,2283,5950,17717,39766
-19,"Atlanta city, Georgia",2013,244392,24703,47313,52521,119855
-20,"Seattle city, Washington",2013,386735,21944,39890,93265,231636
-21,"Orlando city, Florida",2013,139921,13750,34303,43769,48099
-22,"New York city, New York",2013,4617506,804153,1076772,1025146,1711435
-23,"Carson city, California",2013,48195,8331,10465,17351,12048
-24,"Newark city, New Jersey",2013,150578,39243,54418,36404,20513
-25,"Portland city, Oregon",2013,363089,31432,58846,107508,165303
-26,"Minneapolis city, Minnesota",2013,222253,23961,35422,56719,106151
-27,"San Jose city, California",2013,539274,85966,95392,147009,210907
-28,"Kansas City city, Kansas",2013,75296,16275,24041,23014,11966
-29,"Foxborough CDP, Massachusetts",2013,2792,157,510,1191,934
-30,"Sandy city, Utah",2013,46537,1771,9143,16973,18650
-31,"Washington city, District of Columbia",2013,359944,34835,64649,61814,198646
-32,"Houston city, Texas",2013,1163669,281235,259673,279788,342973
-33,"Bridgeview village, Illinois",2013,8557,1723,2864,2540,1430
-34,"Chester city, Pennsylvania",2013,16131,2747,7763,3979,1642
-35,"Columbus city, Ohio",2013,440419,45781,109564,131831,153243
-36,"Commerce City city, Colorado",2013,25067,5265,6890,7494,5418
-37,"Frisco city, Texas",2013,68118,2164,6620,17824,41510
-38,"Atlanta city, Georgia",2014,248706,24002,47095,54751,122858
-39,"Seattle city, Washington",2014,394565,22699,39342,94374,238150
-40,"Orlando city, Florida",2014,142681,13348,34425,45278,49630
-41,"New York city, New York",2014,4676604,799792,1093630,1029717,1753465
-42,"Carson city, California",2014,47998,8339,10398,16949,12312
-43,"Newark city, New Jersey",2014,151102,38765,53809,37137,21391
-44,"Portland city, Oregon",2014,368595,30612,58420,109750,169813
-45,"Minneapolis city, Minnesota",2014,225765,22868,35132,57216,110549
-46,"San Jose city, California",2014,549929,86808,96568,147125,219428
-47,"Kansas City city, Kansas",2014,75748,16138,23846,23483,12281
-48,"Foxborough CDP, Massachusetts",2014,2724,183,515,1051,975
-49,"Sandy city, Utah",2014,46826,1786,8795,17468,18777
-50,"Washington city, District of Columbia",2014,370998,34777,65366,61913,208942
-51,"Houston city, Texas",2014,1182439,280259,264176,283545,354459
-52,"Bridgeview village, Illinois",2014,8495,1471,3236,2383,1405
-53,"Chester city, Pennsylvania",2014,16241,3089,7357,4166,1629
-54,"Columbus city, Ohio",2014,448176,47105,109940,134249,156882
-55,"Commerce City city, Colorado",2014,25823,5232,7132,7753,5706
-56,"Frisco city, Texas",2014,71718,2404,6944,19085,43285
-57,"Atlanta city, Georgia",2015,253723,23875,46352,56077,127419
-58,"Seattle city, Washington",2015,403930,22615,39536,94361,247418
-59,"Orlando city, Florida",2015,146975,12714,34697,46985,52579
-60,"New York city, New York",2015,4729619,795484,1094085,1033895,1806155
-61,"Carson city, California",2015,48635,8694,10619,16611,12711
-62,"Newark city, New Jersey",2015,152096,37613,54516,38471,21496
-63,"Portland city, Oregon",2015,375853,30397,58340,110226,176890
-64,"Minneapolis city, Minnesota",2015,229425,24182,35364,57074,112805
-65,"San Jose city, California",2015,558751,87280,96819,147914,226738
-66,"Kansas City city, Kansas",2015,76364,16457,23964,23567,12376
-67,"Foxborough CDP, Massachusetts",2015,2715,266,364,1003,1082
-68,"Sandy city, Utah",2015,47672,1815,8683,17946,19228
-69,"Washington city, District of Columbia",2015,380653,34405,64388,62861,218999
-70,"Houston city, Texas",2015,1208814,277346,272587,290223,368658
-71,"Bridgeview village, Illinois",2015,8637,1603,3255,2357,1422
-72,"Chester city, Pennsylvania",2015,16274,2896,7530,4116,1732
-73,"Columbus city, Ohio",2015,458592,47906,110614,135371,164701
-74,"Commerce City city, Colorado",2015,26379,4722,7765,8108,5784
-75,"Frisco city, Texas",2015,75119,2588,7578,19112,45841
-76,"Atlanta city, Georgia",2016,258046,23374,46860,57206,130606
-77,"Seattle city, Washington",2016,413133,21214,38922,93974,259023
-78,"Orlando city, Florida",2016,153051,13306,35951,47965,55829
-79,"New York city, New York",2016,4752442,778896,1092575,1037451,1843520
-80,"Carson city, California",2016,48771,8577,10814,16800,12580
-81,"Newark city, New Jersey",2016,152531,36047,55367,38992,22125
-82,"Portland city, Oregon",2016,381246,29657,56281,109969,185339
-83,"Minneapolis city, Minnesota",2016,232168,23886,36065,58364,113853
-84,"San Jose city, California",2016,564344,87769,94749,143961,237865
-85,"Kansas City city, Kansas",2016,76939,17076,24198,22884,12781
-86,"Foxborough CDP, Massachusetts",2016,2749,226,432,959,1132
-87,"Sandy city, Utah",2016,49085,2227,8781,17880,20197
-88,"Washington city, District of Columbia",2016,387831,33222,65727,62631,226251
-89,"Houston city, Texas",2016,1221334,272136,277238,289811,382149
-90,"Bridgeview village, Illinois",2016,8786,1403,3409,2455,1519
-91,"Chester city, Pennsylvania",2016,16230,2918,7480,4142,1690
-92,"Columbus city, Ohio",2016,466981,47842,112993,135673,170473
-93,"Commerce City city, Colorado",2016,26715,4727,7621,8209,6158
-94,"Frisco city, Texas",2016,80030,2811,7543,20353,49323
+,City & State,Year,Edu Total Pop,Less Than High School Grad,High School Grad,Some College or Associates,Bachelor's Degree or Higher,Team
+0,"Atlanta city, Georgia",2012,240515,25188,47446,50395,117486,Atlanta United FC
+1,"Seattle city, Washington",2012,379354,21675,39284,93888,224507,Seattle Sounders
+2,"Orlando city, Florida",2012,136311,14059,34168,42055,46029,Orlando City
+3,"New York city, New York",2012,4565255,810354,1067343,1015411,1672147,New York City FC
+4,"Carson city, California",2012,48161,8142,10830,17185,12004,Los Angeles Galaxy
+5,"Newark city, New Jersey",2012,149541,40128,53380,36402,19631,New York Red Bulls
+6,"Portland city, Oregon",2012,355659,31090,58526,105895,160148,Portland Timbers
+7,"Minneapolis city, Minnesota",2012,219340,24032,34830,55916,104562,Minnesota United FC
+8,"San Jose city, California",2012,530213,82858,94340,146017,206998,San Jose Earthquakes
+9,"Kansas City city, Kansas",2012,74709,15471,25025,22402,11811,Sporting Kansas City
+10,"Foxborough CDP, Massachusetts",2012,2980,232,585,1184,979,New England Revolution
+11,"Sandy city, Utah",2012,46582,1793,9482,17516,17791,Real Salt Lake
+12,"Washington city, District of Columbia",2012,348387,36627,63355,60221,188184,D.C. United
+13,"Houston city, Texas",2012,1144703,283579,254129,274906,332089,Houston Dynamo
+14,"Bridgeview village, Illinois",2012,8432,1588,3025,2506,1313,Chicago Fire
+15,"Chester city, Pennsylvania",2012,16183,2927,7514,4095,1647,Philadelphia Union
+16,"Columbus city, Ohio",2012,431747,44344,106822,130970,149611,Columbus Crew
+17,"Commerce City city, Colorado",2012,24209,5266,6305,7315,5323,Colorado Rapids
+18,"Frisco city, Texas",2012,65716,2283,5950,17717,39766,FC Dallas
+19,"Atlanta city, Georgia",2013,244392,24703,47313,52521,119855,Atlanta United FC
+20,"Seattle city, Washington",2013,386735,21944,39890,93265,231636,Seattle Sounders
+21,"Orlando city, Florida",2013,139921,13750,34303,43769,48099,Orlando City
+22,"New York city, New York",2013,4617506,804153,1076772,1025146,1711435,New York City FC
+23,"Carson city, California",2013,48195,8331,10465,17351,12048,Los Angeles Galaxy
+24,"Newark city, New Jersey",2013,150578,39243,54418,36404,20513,New York Red Bulls
+25,"Portland city, Oregon",2013,363089,31432,58846,107508,165303,Portland Timbers
+26,"Minneapolis city, Minnesota",2013,222253,23961,35422,56719,106151,Minnesota United FC
+27,"San Jose city, California",2013,539274,85966,95392,147009,210907,San Jose Earthquakes
+28,"Kansas City city, Kansas",2013,75296,16275,24041,23014,11966,Sporting Kansas City
+29,"Foxborough CDP, Massachusetts",2013,2792,157,510,1191,934,New England Revolution
+30,"Sandy city, Utah",2013,46537,1771,9143,16973,18650,Real Salt Lake
+31,"Washington city, District of Columbia",2013,359944,34835,64649,61814,198646,D.C. United
+32,"Houston city, Texas",2013,1163669,281235,259673,279788,342973,Houston Dynamo
+33,"Bridgeview village, Illinois",2013,8557,1723,2864,2540,1430,Chicago Fire
+34,"Chester city, Pennsylvania",2013,16131,2747,7763,3979,1642,Philadelphia Union
+35,"Columbus city, Ohio",2013,440419,45781,109564,131831,153243,Columbus Crew
+36,"Commerce City city, Colorado",2013,25067,5265,6890,7494,5418,Colorado Rapids
+37,"Frisco city, Texas",2013,68118,2164,6620,17824,41510,FC Dallas
+38,"Atlanta city, Georgia",2014,248706,24002,47095,54751,122858,Atlanta United FC
+39,"Seattle city, Washington",2014,394565,22699,39342,94374,238150,Seattle Sounders
+40,"Orlando city, Florida",2014,142681,13348,34425,45278,49630,Orlando City
+41,"New York city, New York",2014,4676604,799792,1093630,1029717,1753465,New York City FC
+42,"Carson city, California",2014,47998,8339,10398,16949,12312,Los Angeles Galaxy
+43,"Newark city, New Jersey",2014,151102,38765,53809,37137,21391,New York Red Bulls
+44,"Portland city, Oregon",2014,368595,30612,58420,109750,169813,Portland Timbers
+45,"Minneapolis city, Minnesota",2014,225765,22868,35132,57216,110549,Minnesota United FC
+46,"San Jose city, California",2014,549929,86808,96568,147125,219428,San Jose Earthquakes
+47,"Kansas City city, Kansas",2014,75748,16138,23846,23483,12281,Sporting Kansas City
+48,"Foxborough CDP, Massachusetts",2014,2724,183,515,1051,975,New England Revolution
+49,"Sandy city, Utah",2014,46826,1786,8795,17468,18777,Real Salt Lake
+50,"Washington city, District of Columbia",2014,370998,34777,65366,61913,208942,D.C. United
+51,"Houston city, Texas",2014,1182439,280259,264176,283545,354459,Houston Dynamo
+52,"Bridgeview village, Illinois",2014,8495,1471,3236,2383,1405,Chicago Fire
+53,"Chester city, Pennsylvania",2014,16241,3089,7357,4166,1629,Philadelphia Union
+54,"Columbus city, Ohio",2014,448176,47105,109940,134249,156882,Columbus Crew
+55,"Commerce City city, Colorado",2014,25823,5232,7132,7753,5706,Colorado Rapids
+56,"Frisco city, Texas",2014,71718,2404,6944,19085,43285,FC Dallas
+57,"Atlanta city, Georgia",2015,253723,23875,46352,56077,127419,Atlanta United FC
+58,"Seattle city, Washington",2015,403930,22615,39536,94361,247418,Seattle Sounders
+59,"Orlando city, Florida",2015,146975,12714,34697,46985,52579,Orlando City
+60,"New York city, New York",2015,4729619,795484,1094085,1033895,1806155,New York City FC
+61,"Carson city, California",2015,48635,8694,10619,16611,12711,Los Angeles Galaxy
+62,"Newark city, New Jersey",2015,152096,37613,54516,38471,21496,New York Red Bulls
+63,"Portland city, Oregon",2015,375853,30397,58340,110226,176890,Portland Timbers
+64,"Minneapolis city, Minnesota",2015,229425,24182,35364,57074,112805,Minnesota United FC
+65,"San Jose city, California",2015,558751,87280,96819,147914,226738,San Jose Earthquakes
+66,"Kansas City city, Kansas",2015,76364,16457,23964,23567,12376,Sporting Kansas City
+67,"Foxborough CDP, Massachusetts",2015,2715,266,364,1003,1082,New England Revolution
+68,"Sandy city, Utah",2015,47672,1815,8683,17946,19228,Real Salt Lake
+69,"Washington city, District of Columbia",2015,380653,34405,64388,62861,218999,D.C. United
+70,"Houston city, Texas",2015,1208814,277346,272587,290223,368658,Houston Dynamo
+71,"Bridgeview village, Illinois",2015,8637,1603,3255,2357,1422,Chicago Fire
+72,"Chester city, Pennsylvania",2015,16274,2896,7530,4116,1732,Philadelphia Union
+73,"Columbus city, Ohio",2015,458592,47906,110614,135371,164701,Columbus Crew
+74,"Commerce City city, Colorado",2015,26379,4722,7765,8108,5784,Colorado Rapids
+75,"Frisco city, Texas",2015,75119,2588,7578,19112,45841,FC Dallas
+76,"Atlanta city, Georgia",2016,258046,23374,46860,57206,130606,Atlanta United FC
+77,"Seattle city, Washington",2016,413133,21214,38922,93974,259023,Seattle Sounders
+78,"Orlando city, Florida",2016,153051,13306,35951,47965,55829,Orlando City
+79,"New York city, New York",2016,4752442,778896,1092575,1037451,1843520,New York City FC
+80,"Carson city, California",2016,48771,8577,10814,16800,12580,Los Angeles Galaxy
+81,"Newark city, New Jersey",2016,152531,36047,55367,38992,22125,New York Red Bulls
+82,"Portland city, Oregon",2016,381246,29657,56281,109969,185339,Portland Timbers
+83,"Minneapolis city, Minnesota",2016,232168,23886,36065,58364,113853,Minnesota United FC
+84,"San Jose city, California",2016,564344,87769,94749,143961,237865,San Jose Earthquakes
+85,"Kansas City city, Kansas",2016,76939,17076,24198,22884,12781,Sporting Kansas City
+86,"Foxborough CDP, Massachusetts",2016,2749,226,432,959,1132,New England Revolution
+87,"Sandy city, Utah",2016,49085,2227,8781,17880,20197,Real Salt Lake
+88,"Washington city, District of Columbia",2016,387831,33222,65727,62631,226251,D.C. United
+89,"Houston city, Texas",2016,1221334,272136,277238,289811,382149,Houston Dynamo
+90,"Bridgeview village, Illinois",2016,8786,1403,3409,2455,1519,Chicago Fire
+91,"Chester city, Pennsylvania",2016,16230,2918,7480,4142,1690,Philadelphia Union
+92,"Columbus city, Ohio",2016,466981,47842,112993,135673,170473,Columbus Crew
+93,"Commerce City city, Colorado",2016,26715,4727,7621,8209,6158,Colorado Rapids
+94,"Frisco city, Texas",2016,80030,2811,7543,20353,49323,FC Dallas
+95,"Seattle city, Washington",2017,413133,21214,38922,93974,259023,Seattle Sounders
+96,"Orlando city, Florida",2017,153051,13306,35951,47965,55829,Orlando City
+97,"New York city, New York",2017,4752442,778896,1092575,1037451,1843520,New York City FC
+98,"Carson city, California",2017,48771,8577,10814,16800,12580,Los Angeles Galaxy
+99,"Newark city, New Jersey",2017,152531,36047,55367,38992,22125,New York Red Bulls
+100,"Portland city, Oregon",2017,381246,29657,56281,109969,185339,Portland Timbers
+101,"Minneapolis city, Minnesota",2017,232168,23886,36065,58364,113853,Minnesota United FC
+102,"San Jose city, California",2017,564344,87769,94749,143961,237865,San Jose Earthquakes
+103,"Kansas City city, Kansas",2017,76939,17076,24198,22884,12781,Sporting Kansas City
+104,"Foxborough CDP, Massachusetts",2017,2749,226,432,959,1132,New England Revolution
+105,"Sandy city, Utah",2017,49085,2227,8781,17880,20197,Real Salt Lake
+106,"Washington city, District of Columbia",2017,387831,33222,65727,62631,226251,D.C. United
+107,"Houston city, Texas",2017,1221334,272136,277238,289811,382149,Houston Dynamo
+108,"Bridgeview village, Illinois",2017,8786,1403,3409,2455,1519,Chicago Fire
+109,"Chester city, Pennsylvania",2017,16230,2918,7480,4142,1690,Philadelphia Union
+110,"Columbus city, Ohio",2017,466981,47842,112993,135673,170473,Columbus Crew
+111,"Commerce City city, Colorado",2017,26715,4727,7621,8209,6158,Colorado Rapids
+112,"Frisco city, Texas",2017,80030,2811,7543,20353,49323,FC Dallas
